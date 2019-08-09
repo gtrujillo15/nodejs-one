@@ -89,3 +89,5 @@ server.listen(3000);
 console.log('listening on port 3000...');
 
 //express framework
+
+// node is good because it's a non-blocking I/O. it doesn't block itself from receiving more requests.
